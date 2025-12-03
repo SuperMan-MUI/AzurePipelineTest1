@@ -1,0 +1,9 @@
+{
+	"name": "ArcDF09",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c4bf080d-4338-4f58-be09-7a8fc20a0c69",
+		"tenantId": "e14e73eb-5251-4388-8d67-8f9f2e2d5a46"
+	}
+}
